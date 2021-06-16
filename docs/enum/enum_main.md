@@ -15,7 +15,7 @@ Suppose you want to give your user an option to choose his favorite squad among 
 * Purple Orca
 * Coral Peacock
 
-Suppose you intend to use the variable `favSquad` to denote your user's favorite squad and use that variable for subsequent logic. 
+Suppose you intend to use the variable `favSquad` to denote your user's favorite *Black Clover* squad and use that variable in subsequent logic. 
 
 One option (particularly messy one) would be to allow users to enter `strings` that denote their favorite squads, but that would bring forth a whole new hell of matching proper cases (upper cases and lower cases), also someone could enter
 a `string` that is out of scope, like `Spade Kingdom` for example.
@@ -67,7 +67,7 @@ mapping (address => CloverSquad) public playerSquad;
 function selectFavoriteSquad(uint userFavSquad) external {
   require(userFavSquad <= uint(CloverSquads.AquaDeer), "Choose from 0 to 8");
   playerSquad[msg.sender] = CloverSquad(userFavSquad);
-  // Other logic that you may require.....
+  // Further Logic....
 }
 ```
 
@@ -77,5 +77,4 @@ That is about everything that you will need to know about *enums* to be well on 
 
 
 
-
-##### Thank you & Godspeed.
+**Thank you & Godspeed.**
