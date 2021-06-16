@@ -1,3 +1,5 @@
-# Testing 123
+# Succinct Articles on Solidity and Blockchain development 
 
-ola ola ola
+## Enums
+
+#### [Enums in Solidity](enum/enum_main.md)
