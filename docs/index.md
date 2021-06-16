@@ -1,4 +1,4 @@
-# Succinct Articles on Solidity and Blockchain development 
+# Of Solidity and Blockchain development 
 
 ## Enums
 
