@@ -4,7 +4,9 @@
 
 #### [Enums in Solidity](enum/enum_main.md)
 
-## [CryptoZombies](https://cryptozombies.io/) by [Loom Network](https://twitter.com/loomnetwork)
+---------------------------------------
+
+## CryptoZombies by Loom Network
 
 #### [Lesson1 Notes](cryptoZombies/lesson1.md)
 
@@ -15,3 +17,5 @@
 #### [Lesson4 Notes](cryptoZombies/lesson4.md)
 
 #### [Lesson5 Notes](cryptoZombies/lesson5.md)
+
+---------------------------------------
