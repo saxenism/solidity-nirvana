@@ -1,10 +1,10 @@
 # Solidity Nirvana
-A collection of short blogs, explanations and walk-throughs about common Solidity practices, problems and patterns
+A collection of short blogs, explanations and walk-throughs about common Solidity practices, problems and patterns on [solidity-nirvana](https://saxenism.github.io/solidity-nirvana/).
 
 # Path covered (Resources already covered)
-* CryptoZombies course (Beginner to Intermediate). [Notes](https://github.com/saxenism/cryptoZombiesNFT#lesson-wise-notes-from-the-cryptozombies-course)
-* Half of examples from [cryptomarketpool](https://cryptomarketpool.com/getting-started-with-solidity/). [Repository](https://github.com/saxenism/practiceSmartContracts)
-* Solidity development experience blog. See [solidity-nirvana](https://saxenism.github.io/solidity-nirvana/)
+* CryptoZombies course (Beginner to Intermediate). [Notes.](https://github.com/saxenism/cryptoZombiesNFT#lesson-wise-notes-from-the-cryptozombies-course)
+* Half of examples from [cryptomarketpool.](https://cryptomarketpool.com/getting-started-with-solidity/). [Repository.](https://github.com/saxenism/practiceSmartContracts)
+* Solidity development experience blog. See [solidity-nirvana.](https://saxenism.github.io/solidity-nirvana/)
 
 # Learning Path (List of To-Dos)
 * All remaining contract examples at [solidity-by-example](https://solidity-by-example.org/)
