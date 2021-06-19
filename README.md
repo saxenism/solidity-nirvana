@@ -1,5 +1,5 @@
 # Solidity Nirvana
-The repository for a website consisting of collection of short blogs, explanations and walk-throughs about common Solidity practices, problems and patterns on [solidity-nirvana](https://saxenism.me/).
+The repository for a website consisting of collection of short blogs, explanations and walk-throughs about common Solidity practices, problems and patterns on [solidity-nirvana](https://saxenism.github.io/solidity-nirvana/).
 
 # Path covered (Resources already covered)
 * CryptoZombies course (Beginner to Intermediate). [Notes.](https://github.com/saxenism/cryptoZombiesNFT#lesson-wise-notes-from-the-cryptozombies-course)
