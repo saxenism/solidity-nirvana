@@ -1,3 +1,5 @@
+# RunETH will be deployed here soon. Please be a little more patient.
+
 # Of Solidity and Blockchain development 
 
 ## Enums
