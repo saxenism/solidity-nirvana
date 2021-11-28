@@ -8,11 +8,11 @@
 
 ## Anchor (Solana) Tutorials
 
-#### [Create a calculator on Solana](docs/Solana-Anchor/Build a calculator.md)
+#### [Create a calculator on Solana](Solana-Anchor/Build a calculator.md)
 
-#### [Create a messaging app on Solana](docs/Solana-Anchor/Messaging App.md)
+#### [Create a messaging app on Solana](Solana-Anchor/Messaging App.md)
 
-#### [Create your own tokens on Solana](docs/Solana-Anchor/Create Your Own Token.md)
+#### [Create your own tokens on Solana](Solana-Anchor/Create Your Own Token.md)
 
 ---------------------------------------
 
